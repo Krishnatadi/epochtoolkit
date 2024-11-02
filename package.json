@@ -1,0 +1,11 @@
+{
+  "name": "epochtoolkit",
+  "version": "1.0.0",
+  "description": "this is  tool",
+  "main": "epochtoolkit/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
