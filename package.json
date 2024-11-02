@@ -1,11 +1,36 @@
 {
   "name": "epochtoolkit",
   "version": "1.0.0",
-  "description": "this is  tool",
+  "description": "A comprehensive toolkit for working with dates, times, and epoch conversions in JavaScript. Provides utilities for date formatting, validation, leap year checking, and more.",
   "main": "epochtoolkit/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krishnatadi/epochtoolkit.git"
+  },
+  "keywords": [
+    "date",
+    "time",
+    "epoch",
+    "timestamp",
+    "date-conversion",
+    "date-formatting",
+    "leap-year",
+    "validation",
+    "JavaScript",
+    "toolkit"
+  ],
+  "author": "Krishna Tadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krishnatadi/epochtoolkit/issues"
+  },
+  "homepage": "https://github.com/krishnatadi/epochtoolkit#readme",
+  "devDependencies": {
+    "mocha": "^10.0.0",
+    "chai": "^4.3.6",
+    "eslint": "^8.0.0"
+  }
 }
